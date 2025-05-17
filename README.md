@@ -1,8 +1,4 @@
 
-<p align="center">
-  <img src="https://i.imgur.com/qKk1jVU.png" width="120" />
-</p>
-
 # Reflexo 🤍
 ### Um espelho emocional para quem precisa ser ouvido de verdade
 
